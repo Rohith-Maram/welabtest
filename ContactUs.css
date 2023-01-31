@@ -1,0 +1,28 @@
+.container #email{
+    border:0;
+    border-bottom: 1px solid black;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+}
+p{
+    padding: 20px;
+}
+.container{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 400px 400px;
+    padding: 30px;
+}
+.container #Name{
+    text-align: center;
+}
+.container #TextArea{
+    display: flex;
+}
+.map{
+    padding-top: 30px;
+}
+
+
